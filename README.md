@@ -11,5 +11,5 @@
 
 ## 📊 GitHub Stats  
 ![Visitor Count](https://profile-counter.glitch.me/adrianortegaw2m/count.svg)  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianortegaw2m&show_icons=true&theme=transparent)
 
