@@ -4,6 +4,11 @@
 💼 Actualmente de prácticas en **World2Meet**.  
 🚀 Apasionado por el desarrollo web y siempre aprendiendo nuevas tecnologías.  
 
+## 🌐 Mis otros perfiles GitHub
+- [adrianortegadev](https://github.com/adrianortegadev)
+- [adriancesurform](https://github.com/adriancesurform)
+- [ortegadriian](https://github.com/ortegadriian)
+
 ## 🛠️ Tecnologías que uso  
 - **Frontend:** Angular, HTML, CSS, SASS, Bootstrap, Tailwind, JavaScript, TypeScript  
 - **Backend:** PHP, Node.js, Spring Boot  
