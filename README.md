@@ -9,8 +9,7 @@
 - [adriancesurform](https://github.com/adriancesurform)
 
 ## 📊 GitHub Metrics (Incluyendo privados)
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=adrianortegaw2m&show_icons=true&theme=transparent&count_private=true)
-
+![Stats](https://github-readme-stats.vercel.app/api?username=adrianortegaw2m&count_private=true&include_all_commits=true)
 ![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianortegaw2m&layout=compact&count_private=true)
 ## 🛠️ Tecnologías que uso  
 - **Frontend:** Angular, HTML, CSS, SASS, Bootstrap, Tailwind, JavaScript, TypeScript  
