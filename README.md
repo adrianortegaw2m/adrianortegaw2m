@@ -9,8 +9,6 @@
 - [adriancesurform](https://github.com/adriancesurform)
 
 ## 🕒 Mi actividad de desarrollo (WakaTime)
-[![wakatime](https://wakatime.com/badge/user/f11c8d8f-7356-4179-afea-e27ca5165485.svg)](https://wakatime.com/@f11c8d8f-7356-4179-afea-e27ca5165485)
-
 ![Lenguajes más usados](https://wakatime.com/share/@f11c8d8f-7356-4179-afea-e27ca5165485/f453d8c1-3069-43b0-85c0-9412b960b694.svg)
 
 ## 🛠️ Tecnologías que uso  
