@@ -8,7 +8,7 @@
 - [adrianortegadev](https://github.com/adrianortegadev)
 - [adriancesurform](https://github.com/adriancesurform)
 
-## 📊 Métricas GitHub (Actualizadas en tiempo real)
-![Stats](https://github-readme-stats-ten-beta-36.vercel.app/api?username=adrianortegaw2m&count_private=true&show_icons=true&theme=radical&include_all_commits=true&disable_animations=true)
+## 📊 GitHub Metrics
+![Stats](https://github-readme-stats-ten-beta-36.vercel.app/api?username=adrianortegaw2m&count_private=true&force_refresh=1&random=12345)
 
 ![Lenguajes](https://github-readme-stats-ten-beta-36.vercel.app/api/top-langs/?username=adrianortegaw2m&layout=compact&hide=html,css,scss&count_private=true)
