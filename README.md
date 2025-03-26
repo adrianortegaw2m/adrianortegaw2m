@@ -16,4 +16,4 @@
 ## 📊 GitHub Stats  
 ![Visitor Count](https://profile-counter.glitch.me/adrianortegaw2m/count.svg)  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianortegaw2m&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianortegaw2m)](https://github.com/adrianortegaw2m/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianortegaw2m)](https://github.com/adrianortegaw2m/github-readme-stats)
