@@ -11,4 +11,4 @@
 ## 📊 GitHub Metrics
 ![Stats](https://github-readme-stats-ten-beta-36.vercel.app/api?username=adrianortegaw2m&count_private=true&force_refresh=1&random=12345)
 
-![Lenguajes](https://github-readme-stats-ten-beta-36.vercel.app/api/top-langs/?username=adrianortegaw2m&layout=compact&hide=html,css,scss&count_private=true&force_refresh=1&random=12345)
+![Lenguajes](https://github-readme-stats-ten-beta-36.vercel.app/api/top-langs/?username=adrianortegaw2m&layout=compact&count_private=true&force_refresh=1&random=12345)
